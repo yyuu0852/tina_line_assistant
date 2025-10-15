@@ -3,3 +3,4 @@ gunicorn
 line-bot-sdk
 beautifulsoup4
 requests
+openai
